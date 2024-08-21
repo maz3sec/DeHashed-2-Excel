@@ -1,7 +1,4 @@
-DeHashed-2-XLSX
-
 DeHashed-2-Excel
-
 --------------
 by: maz3sec
 
@@ -16,4 +13,4 @@ Example Usage
 
 - Reformat DeHashed JSON data to Excel
 
-      python3 dehashed-2-xlsx.py -i dehashed.json -o dehashed.xlsx
+      python3 dehashed-2-excel.py -i dehashed.json -o dehashed.xlsx
