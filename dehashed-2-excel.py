@@ -21,7 +21,7 @@ def convert_json_to_excel(json_file, output_file):
 if __name__ == "__main__":
     # ASCII art banner
     banner = r"""
-dehash-2-excel
+DeHashed-2-Excel
 --------------
       by: maz3sec
           https://github.com/maz3sec
