@@ -1,4 +1,5 @@
-DeHashed-2-xlsx
+DeHashed-2-XLSX
+DeHashed-2-Excel
 --------------
 by: maz3sec
 
